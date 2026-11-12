@@ -1,0 +1,10 @@
+# Secrets - never upload
+.env
+
+# Large data files
+data/
+*.csv
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
