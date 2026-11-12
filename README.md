@@ -114,4 +114,4 @@ Closure means a closed date is recorded, not citizen satisfaction. 72 h is a pro
 | ![](screenshots/05_filter_brooklyn_map.png) | ![](screenshots/06_filter_brooklyn_kpis.png) |
 
 ## Author
-Arokiaprakash A. – GUVI AIML Program
+Arokiaprakash A.
